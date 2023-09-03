@@ -1,4 +1,4 @@
-<h1>Certainly! Here's a description for your GitHub repository for the Drum Kit project you created with HTML, CSS, and JavaScript:<h1>
+<h1>Certainly! Here's a description for my GitHub repository for the Drum Kit project I created with HTML, CSS, and JavaScript:<h1>
 <h3>
 Project Title: Drum Kit
 </h3>
