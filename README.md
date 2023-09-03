@@ -27,5 +27,6 @@ Feel free to contribute to this project by adding new features, improving the us
 Clone or fork this repository to get started with the Drum Kit project. Have a blast drumming and let your creativity flow!
 
 Explore the live project here.
+https://vedantpatel07756.github.io/DRUMKIT/
 
 Join the rhythm and start drumming with our virtual drum kit now!
